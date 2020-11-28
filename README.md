@@ -37,3 +37,8 @@ Amd Radeon R5 M230 (Switchable Graphics is not supported by Hackintosh)
 Etc..
 
 Keep Hackintosh and Keep Hair Fall !!!
+
+
+### Changelog
+- 28 Nov 2020
+Add Wifi AR9565 Support
