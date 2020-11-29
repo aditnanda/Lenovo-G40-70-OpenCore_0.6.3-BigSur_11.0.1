@@ -9,7 +9,7 @@
 - dGPU : Amd Radeon R5 M230 
 - Storage : 1x VGEN SSD 240GB
 - Ethernet : Realtek RTL8111
-- Wifi : TLWN725N
+- Wifi & Bluetooth : AR9565
 - USB : Intel Chipset
 - Audio Codec : Conexant CX20751/2
 - Touchpad : Synaptic PS2 Interface
@@ -27,7 +27,8 @@
 - All FN Key + Brightness Button Up / Down
 - Touchpad
 - Ethernet
-- Wifi TL WN725N
+- Wifi : AR9565
+- Bluetooth (Need boot to Windows first then reboot to macOS, to load Firmware Bluetooth)
 - Battery Indicator
 - All Port USB and Super Speed Port USB 3.0
 - Etc
