@@ -1080,10 +1080,9 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02337403CDFD471M</string>
+			<string></string>
 			<key>ROM</key>
 			<data>
-			yFt2hvvq
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1092,9 +1091,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookAir6,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02LDCYLF5V7</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>F7D8558F-2BDE-4693-B944-922EFB6F4EC2</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
